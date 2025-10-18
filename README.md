@@ -1,2 +1,16 @@
-# Doctor-Appointment-MVVM-
-A Flutter-based mobile application for scheduling and managing doctor appointments, built with MVVM architecture and powered by Firebase for seamless backend integration. Written in 99% Dart, this app provides a robust, scalable, and user-friendly experience for patients and healthcare providers.
+# next
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
